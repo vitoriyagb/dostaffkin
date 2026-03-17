@@ -4,7 +4,7 @@ import { FormsModule } from '@angular/forms';
 
 @Component({
   selector: 'app-track',
-  imports: [Header, FormsModule ],
+  imports: [Header, FormsModule],
   templateUrl: './track.html',
   styleUrl: './track.css',
 })
